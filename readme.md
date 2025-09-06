@@ -111,7 +111,4 @@ As per assignment instructions:
 
 ## Author
 - Name: Murali Krishna Chintha  
-- Course: MSCS – Advanced Big Data and Data Mining (MSCS-634-M40)  
-- Institution: University of the Cumberlands
-```
 
